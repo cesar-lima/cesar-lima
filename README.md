@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" height="200" src="https://i.gifer.com/FAPQ.gif"/>
-</div>
+<img height="200" height="200" src="https://i.gifer.com/FAPQ.gif"/>
 
 ###
 
