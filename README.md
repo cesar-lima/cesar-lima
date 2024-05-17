@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.gifer.com/FAPQ.gif" height="200" alt="delete gif"  />
+  ![](https://i.gifer.com/FAPQ.gif)
 </div>
 
 ###
