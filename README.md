@@ -6,9 +6,8 @@
 
 ###
 
-<div align="center">
-  ![](https://i.gifer.com/FAPQ.gif)
-</div>
+
+![](https://hermes.dio.me/articles/cover/002f68e4-0e5a-4447-9a50-1ce11ec21994.gif)
 
 ###
 
