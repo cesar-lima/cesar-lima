@@ -6,7 +6,7 @@
 
 ###
 
-<img height="200" height="200" src="https://i.gifer.com/FAPQ.gif"/>
+<img src="https://i.gifer.com/FAPQ.gif" height="200" alt="delete gif"/>
 
 ###
 
