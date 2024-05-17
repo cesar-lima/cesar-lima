@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=F74949&width=420&height=50&lines=Bem+vindo{a}+ao+meu+perfil!;Me+chamo+César+Lima;" alt="Typing SVG" align="left"/>
-
+<br/>
 ###
 
 <p align="left">Olá, meu nome é César tenho 20 anos e atualmente estou me formando em Sistemas de Informação! Meu interesse por tecnologia começou quando eu era bem novo e adorava passar horas e horas jogando videogame ou usando o computador, e em 2019, que foi quando surgiu uma oportunidade, comecei um curso técnico de informática para a internet, que foi a chave para eu me tornar a pessoa que sou hoje.</p>
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/FAPQ.gif"  />
+  <img height="200" src="https://i.gifer.com/FAPQ.gif"/>
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
