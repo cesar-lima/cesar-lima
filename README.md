@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="left">Olá, meu nome é César tenho 20 anos e atualmente estou me formando em Sistemas de Informação! Meu interesse por tecnologia começou quando eu era bem novo e adorava passar horas e horas jogando videogame ou usando o computador, e em 2019, que foi quando surgiu uma oportunidade, comecei um curso técnico de informática para a internet, que foi a chave para eu me tornar a pessoa que sou hoje.</p>
+<p align="left">Olá, meu nome é César tenho 20 anos e atualmente estou me formando em Sistemas de Informação! Meu interesse por tecnologia começou quando eu era bem novo e adorava passar horas e horas usando o computador, e em 2019, que foi quando surgiu uma oportunidade, comecei um curso técnico de informática para a internet, que foi a chave para eu me tornar a pessoa que sou hoje.</p>
 
 ###
 
