@@ -6,8 +6,9 @@
 
 ###
 
-
-![](https://hermes.dio.me/articles/cover/002f68e4-0e5a-4447-9a50-1ce11ec21994.gif)
+<div align="center">
+  <img src="https://media.tenor.com/_vqZn008e0MAAAAd/starry-night-clouds.gif"/>
+</div>
 
 ###
 
