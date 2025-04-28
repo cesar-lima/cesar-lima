@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=500&color=F74949&width=420&height=50&lines=Bem+vindo{a}+ao+meu+perfil!;Me+chamo+César+Lima;" alt="Typing SVG" align="center"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=false&vCenter=true&width=700&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
 
 <br/>
 
