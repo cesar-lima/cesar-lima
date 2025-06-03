@@ -7,12 +7,6 @@
 ###
 
 <div align="center">
-  <img src="https://media.tenor.com/_vqZn008e0MAAAAd/starry-night-clouds.gif"/>
-</div>
-
-###
-
-<div align="center">
   <a href="https://instagram.com/_cesar.lc" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -25,6 +19,12 @@
   <a href="https://cesar-dev.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linktree&label=&color=1de9b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://media.tenor.com/_vqZn008e0MAAAAd/starry-night-clouds.gif"/>
 </div>
 
 ###
